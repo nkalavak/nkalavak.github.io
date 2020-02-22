@@ -9,7 +9,9 @@ paperurl: 'https://www.airitilibrary.com/Publication/alDetailedMesh?docid=P20150
 citation: 'Pattery, John Jose, Niveditha Kalavakonda, Jitu Verghese Kurian, Lekha Mohan, Jippu Jacob. "Design and Development of Robot for Borewell Rescue", <i> Proceedings of the 14th IFToMM World Congress</i> ; 2015 Oct 25-30; Taipei, Taiwan. doi:10.6567/IFToMM.14TH.WC.OS13.103 '
 ---
 
-Abstract: We describe the design and working of a robotic device that can be used for the rescue of children trapped in borewells. 
+Abstract: 
+
+We describe the design and working of a robotic device that can be used for the rescue of children trapped in borewells. 
 The design is inspired by taking into account the reasons for failure of previously existing methods. 
 A key feature of the device is its ability to lift a child with the help of a safety cage, instead of a grasping mechanism. 
 The device has the capacity to shrink the size to lower into the borewell, thereby not affecting the wall. 
