@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Electronics and Communications Engineering, Amrita School of Engineering (Coimbatore, India), 2014
+* M.S. in Electrical Engineering, University of Washington - Seattle, 2017
+* Ph.D in Electrical and Computer Engineering, University of Washington - Seattle, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2017 - Present : Research Assistant
+  * University of Washington
+  * Supervisor: Professor Blake Hannaford
 
 * Fall 2015: Research Assistant
   * Github University
