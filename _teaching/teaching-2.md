@@ -8,7 +8,5 @@ date: 2020-01-07
 location: "Seattle, WA"
 ---
 
-Winter/Spring 2019 (Professor Payman Arabshahi); 
-
-Winter/Spring 2020 (Professor Payman Arabshahi)
+Winter/Spring 2019 (Professor Payman Arabshahi); Winter/Spring 2020 (Professor Payman Arabshahi)
 
