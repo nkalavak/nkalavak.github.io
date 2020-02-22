@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 I am a third year Ph.D. student in Electrical and Computer Engineering at the University of Washington. 
-I am affiliated with the [BioRobotics Lab](http://brl.ee.washington.edu/), and work with Prof. [Blake Hannaford] (https://people.ece.uw.edu/hannaford/) in the field of Robotics and Computer Vision. 
+I am affiliated with the [BioRobotics Lab](http://brl.ee.washington.edu/), and work with Prof. [Blake Hannaford](https://people.ece.uw.edu/hannaford/) in the field of Robotics and Computer Vision. 
 My collaborators include Dr.[Laligam Sekhar](https://www.uwmedicine.org/bios/laligam-sekhar) and Dr. Zeeshan Qazi from the Harborview Medical Center, Seattle and the School of Medicine at University of Washington – Seattle.
 
-I am also a part of the Science, Technology and Society Studies (STSS) program at UW. I am advised by Prof. [Ryan Calo](https://www.law.uw.edu/directory/faculty/calo-ryan) for my project with the department. 
+My current research interests are Human-Robot/Human-Computer Interaction and Computer Vision. I have also worked on projects in Virtual/Augmented Reality and Game Development, Haptics and .
+
+I am also a part of the Science, Technology and Society Studies (STSS) program at UW, work on Tech Policy research for robotics. I am advised by Prof. [Ryan Calo](https://www.law.uw.edu/directory/faculty/calo-ryan) for my project with the department. 
 
 I was a Fellow at [Laboratory for Analysis of Motion and Performance (AMP Lab)](https://depts.washington.edu/amplify/), a joint initiative between the College of Engineering and School of Medicine at University of Washington, Seattle, until 2018.
 
